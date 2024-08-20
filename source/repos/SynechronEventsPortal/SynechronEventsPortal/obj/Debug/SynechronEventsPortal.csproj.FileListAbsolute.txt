@@ -1,0 +1,183 @@
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.dll.config
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.pdb
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.exe
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.exe.config
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.rsp
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.exe
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.exe.config
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.rsp
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.AppContext.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Console.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.exe
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.exe.config
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.rsp
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Antlr3.Runtime.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Newtonsoft.Json.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Helpers.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Mvc.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Optimization.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Razor.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\WebGrease.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Helpers.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Mvc.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Optimization.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Razor.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Newtonsoft.Json.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Antlr3.Runtime.pdb
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.AssemblyReference.cache
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.CoreCompileInputs.cache
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.CopyComplete
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.pdb
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\MySql.Data.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Memory.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Numerics.Vectors.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Buffers.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\MySql.Data.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Abstractions.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Container.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Mvc5.dll
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Abstractions.pdb
+C:\Users\ADITYA\Desktop\CDAC\Cdac Dac\DotNet\Day7\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Container.pdb
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.dll.config
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\SynechronEventsPortal.pdb
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.exe
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.exe.config
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csc.rsp
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.exe
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.exe.config
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\csi.rsp
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Console.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.exe
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.exe.config
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\vbc.rsp
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Antlr3.Runtime.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Newtonsoft.Json.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Helpers.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Mvc.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Optimization.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Razor.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Abstractions.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Container.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Mvc5.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\WebGrease.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Memory.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Numerics.Vectors.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Buffers.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\MySql.Data.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Helpers.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Mvc.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Optimization.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.Razor.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Newtonsoft.Json.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Abstractions.pdb
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Unity.Container.pdb
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.AssemblyReference.cache
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.CoreCompileInputs.cache
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.csproj.CopyComplete
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.dll
+C:\Users\Vrushali\source\repos\SynechronEventsPortal\SynechronEventsPortal\obj\Debug\SynechronEventsPortal.pdb

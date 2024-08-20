@@ -1,0 +1,7 @@
+C:\DotNet\day1\Assignment9\Assignment9\bin\Debug\Assignment9.exe.config
+C:\DotNet\day1\Assignment9\Assignment9\bin\Debug\Assignment9.exe
+C:\DotNet\day1\Assignment9\Assignment9\bin\Debug\Assignment9.pdb
+C:\DotNet\day1\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.AssemblyReference.cache
+C:\DotNet\day1\Assignment9\Assignment9\obj\Debug\Assignment9.csproj.CoreCompileInputs.cache
+C:\DotNet\day1\Assignment9\Assignment9\obj\Debug\Assignment9.exe
+C:\DotNet\day1\Assignment9\Assignment9\obj\Debug\Assignment9.pdb

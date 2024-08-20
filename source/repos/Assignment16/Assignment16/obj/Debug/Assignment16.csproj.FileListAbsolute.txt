@@ -1,0 +1,7 @@
+C:\DotNet\day1\Assignment16\Assignment16\bin\Debug\Assignment16.exe.config
+C:\DotNet\day1\Assignment16\Assignment16\bin\Debug\Assignment16.exe
+C:\DotNet\day1\Assignment16\Assignment16\bin\Debug\Assignment16.pdb
+C:\DotNet\day1\Assignment16\Assignment16\obj\Debug\Assignment16.csproj.AssemblyReference.cache
+C:\DotNet\day1\Assignment16\Assignment16\obj\Debug\Assignment16.csproj.CoreCompileInputs.cache
+C:\DotNet\day1\Assignment16\Assignment16\obj\Debug\Assignment16.exe
+C:\DotNet\day1\Assignment16\Assignment16\obj\Debug\Assignment16.pdb

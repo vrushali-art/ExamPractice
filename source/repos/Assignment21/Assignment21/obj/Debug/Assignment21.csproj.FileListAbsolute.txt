@@ -1,0 +1,14 @@
+C:\DotNet\day1\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.AssemblyReference.cache
+C:\DotNet\day1\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.CoreCompileInputs.cache
+C:\DotNet\day1\Assignment21\Assignment21\bin\Debug\Assignment21.exe.config
+C:\DotNet\day1\Assignment21\Assignment21\bin\Debug\Assignment21.exe
+C:\DotNet\day1\Assignment21\Assignment21\bin\Debug\Assignment21.pdb
+C:\DotNet\day1\Assignment21\Assignment21\obj\Debug\Assignment21.exe
+C:\DotNet\day1\Assignment21\Assignment21\obj\Debug\Assignment21.pdb
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\bin\Debug\Assignment21.exe.config
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\bin\Debug\Assignment21.exe
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\bin\Debug\Assignment21.pdb
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.AssemblyReference.cache
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\obj\Debug\Assignment21.csproj.CoreCompileInputs.cache
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\obj\Debug\Assignment21.exe
+C:\Users\Vrushali\source\repos\Assignment21\Assignment21\obj\Debug\Assignment21.pdb
